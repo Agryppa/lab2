@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">lab2</string>
+    <string name="imi">IMIĘ</string>
+    <string name="nazwisko">NAZWISKO</string>
+    <string name="urodzony">URODZONY</string>
+    <string name="savedata">saveData</string>
+    <string name="newperson">newperson</string>
+    <string name="wiek">WIEK:</string>
+    <string name="title_activity_titles">Titles</string>
+    <string name="movie">Movie</string>
+    <string name="category">Category</string>
+    <string name="a_title_should_be_here">a title should be here</string>
+    <string name="a_category_should_be_here">a category should be here</string>
+    <string name="lotr">Lord of the Rings</string>
+    <string name="fantasy">fantasy</string>
+    <string name="hobbit">The Hobbit</string>
+    <string name="vvendetta">V for Vendetta</string>
+    <string name="sf">s-f</string>
+    <string name="TheGodfather">The Godfather</string>
+    <string name="drama3">drama</string>
+    <string name="textview">TextView</string>
+</resources>
